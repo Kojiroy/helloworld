@@ -1,7 +1,7 @@
 #! /bin/bash
 
 func(){
-echo "hello, world! (I added the comma and exclamation point)"
+echo "hello, world! (I added the comma and exclamation point, yay?)"
 }
 
 func
